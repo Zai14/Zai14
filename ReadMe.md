@@ -1,5 +1,5 @@
 # 💫 About Me:
-📡 I’m currently working on Decentralized Secure Messaging and The Ai Medical Diagnosis System<br>🤝 I’m looking to collaborate on Mobile Operating Systems Projects<br>✋ I’m looking for help with Advanced Java or Blockchain Technologies<br>🌱 I’m currently learning Blockchain, Cryptography, and Decentralization<br>💬 Ask me about Web Design using HTML & JavaScript<br>⚡ Fun fact: I’m proficient in C, Java, and always exploring new OS trends
+📡 I’m currently working on Decentralized Secure Messaging and The AI Medical Diagnosis System<br>🤝 I’m looking to collaborate on Mobile Operating Systems Projects<br>✋ I’m looking for help with Advanced Java or Blockchain Technologies<br>🌱 I’m currently learning Blockchain, Cryptography, and Decentralization<br>💬 Ask me about Web Design using HTML & JavaScript<br>⚡ Fun fact: I’m proficient in C, Java, and always exploring new OS trends
 
 
 ## 🌐 Socials:
