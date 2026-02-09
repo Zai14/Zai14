@@ -1,5 +1,5 @@
 # 💫 About Me:
-📡 I’m currently working on OrchardIntel And NodeLink<br>🤝 I’m looking to collaborate on AI Model Training And AI Model Full-Stack Projects<br>✋ I’m looking for help with AI integrated Technologies<br>🌱 I’m currently learning Machine Learning, Gen-AI & Secure AI-Systems<br>💬 Ask me about Web Design using Vibe Coding AI Tools Or Model Training Stuff<br>⚡ Fun fact: I’m proficient in Python, JS, TS, etc and always exploring new OS trends
+📡 I’m currently working on AppleKul Space And NodeLink<br>🤝 I’m looking to collaborate on AI Model Training And AI Model Full-Stack Projects<br>✋ I’m looking for help with AI integrated Technologies<br>🌱 I’m currently learning Machine Learning, Gen-AI & Secure AI-Systems<br>💬 Ask me about Web Design using Vibe Coding AI Tools Or Model Training Stuff<br>⚡ Fun fact: I’m proficient in Python, JS, TS, etc and always exploring new OS trends
 
 
 ## 🌐 Socials:
