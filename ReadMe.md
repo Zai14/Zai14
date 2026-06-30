@@ -1,13 +1,4 @@
 
-<!-- Typing SVG Animated Header -->
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=AI+%26+Full-Stack+Developer;Machine+Learning+Enthusiast;Vibe+Coding+%26+AI+Tools+Explorer;Open+Source+Contributor)](https://git.io/typing-svg)
-
-</div>
-
----
-
 ## 💫 About Me:
 📡 I'm currently working on ( AppleKul Space, Suite & One ) And NodeLink<br>🤝 I'm looking to collaborate on AI Model Training And AI Model Full-Stack Projects<br>✋ I'm looking for help with AI integrated Technologies<br>🌱 I'm currently learning Machine Learning, Gen-AI & Secure AI-Systems<br>💬 Ask me about Web Design using Vibe Coding AI Tools Or Model Training Stuff<br>⚡ Fun fact: I'm proficient in Python, JS, TS, etc and always exploring new OS trends
 
@@ -24,19 +15,19 @@
 ---
 
 ## 🏆 GitHub Trophies:
-[![trophy](https://github-profile-trophy.vercel.app/?username=Zai14&theme=darkhub&no-frame=true&row=1&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Zai14&theme=onedark&no-frame=true&no-bg=true&margin-w=6&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Zai14&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Zai14&theme=dark&hide_border=false)<br/>
+![](https://streak-stats.demolab.com/?user=Zai14&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zai14&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
 ## 📈 Contribution Activity Graph:
-[![Zai14's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Zai14&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Zai14's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Zai14&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
@@ -44,7 +35,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Zai14&limit=5&theme=dark&combine_all_yearly_contributions=true)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=Zai14&repo=Zai14&theme=dark&hide_border=false)](https://github.com/Zai14)
 
 ---
 
