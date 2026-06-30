@@ -14,10 +14,7 @@
 
 ---
 
-## 🏆 GitHub Trophies:
-[![trophy](https://github-profile-trophy.vercel.app/?username=Zai14&theme=onedark&no-frame=true&no-bg=true&margin-w=6&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
----
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Zai14&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
@@ -26,10 +23,6 @@
 
 ---
 
-## 📈 Contribution Activity Graph:
-[![Zai14's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Zai14&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
